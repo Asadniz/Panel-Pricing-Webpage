@@ -253,6 +253,7 @@ body {
     }
 
     .pricing-plan {
+        border-top: 1px solid #e1f1ff;
         border-left: none;
     }
 
