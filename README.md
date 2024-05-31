@@ -5,5 +5,5 @@ The task is part of the 'Web Developer Bootcamp 2024' course by Colt Steele. The
 Limitations: in normal width mode, the image and the 'free trial' button for the middle plan are larger than the others. Would appreciate if anyone is able to understand the cause and fix it.\
 \
 HOW TO RUN:\
-. Clone the repository in one folder.\
-. run the index.html file on a browser.
+Clone the repository in one folder.\
+run the index.html file on a browser.
