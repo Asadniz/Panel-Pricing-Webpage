@@ -183,6 +183,8 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    line-height: 25px;
+    letter-spacing: 1px;
     font-weight: 600;
     border-bottom: 1px solid #e1f1ff;
     border-top: 1px solid #e1f1ff;
