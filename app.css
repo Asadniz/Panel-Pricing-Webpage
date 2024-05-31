@@ -262,10 +262,12 @@ body {
         font-size: 250%;
         color: #135D66;
         font-weight: 500;
+        padding: 10% 0 0 0;
     }
 
     .pricing-button {
-        margin: 0 0 15% 3%;
+        width: 30%;
+        margin: 1% 0 15% 2%;
     }
 
     .pricing-price {
